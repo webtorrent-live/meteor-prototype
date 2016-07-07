@@ -1,0 +1,4 @@
+version: '2'
+
+services:
+  ffmpeg: docker pull jrottenberg/ffmpeg:ubuntu
