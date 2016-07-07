@@ -1,4 +1,4 @@
 version: '2'
 
 services:
-  ffmpeg: jrottenberg/ffmpeg:ubuntu
+  image: jrottenberg/ffmpeg:ubuntu
